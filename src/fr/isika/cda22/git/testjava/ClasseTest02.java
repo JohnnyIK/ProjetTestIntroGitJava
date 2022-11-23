@@ -1,10 +1,10 @@
 package fr.isika.cda22.git.testjava;
 
-public class LaunchTest {
+public class ClasseTest02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello GitWorld");
+
 	}
 
 }
